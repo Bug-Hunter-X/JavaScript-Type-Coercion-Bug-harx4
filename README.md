@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug related to type coercion. The `foo` function is intended to add two numbers, but it produces an unexpected result when one of the inputs is a string. The solution shows how to use strict equality (`===`) to prevent this unexpected behavior.
